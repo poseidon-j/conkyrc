@@ -19,7 +19,6 @@ Create link:
 
 ``
 ln -s ~/.conky/conkyrc ~/.conkyrc
-
 ``
 
 or use conky manager
